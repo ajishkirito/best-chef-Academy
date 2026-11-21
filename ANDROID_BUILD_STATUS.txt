@@ -1,0 +1,15 @@
+Best Chef Academy Android conversion status
+
+Completed in this source package:
+- Existing web app bundled as the app's web layer
+- Capacitor app ID: com.bestchef.academy
+- App name: Best Chef Academy
+- Android build scripts declared
+- PWA manifest, service worker, icon artwork and privacy policy template included
+
+Not completed:
+- Android platform project generation (requires npm package installation)
+- Device/emulator testing
+- Native signed APK/AAB generation
+- Backend services and production authentication/chat/AI
+- Final privacy-policy owner details and Play Console declarations
